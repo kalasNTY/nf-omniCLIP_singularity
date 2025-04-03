@@ -26,8 +26,8 @@ This pipeline uses a **Singularity container** available on SyLab Hub:
 ## Quick Start
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kalasNTY/nf-omniCLIP_docker.git
-   cd nf-omniCLIP_docker
+   git clone [https://github.com/kalasNTY/nf-omniCLIP_singularity.git]
+   cd nf-omniCLIP_singularity
    ```
 
 2. **Run the pipeline with default parameters (chromosome 3 test dataset):**
