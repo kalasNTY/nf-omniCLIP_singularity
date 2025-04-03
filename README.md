@@ -13,9 +13,9 @@ This pipeline is based on the original **omniCLIP** framework. Please cite the f
 - **Original ARTR-seq Data**: [Nature Methods (2023)](https://www.nature.com/articles/s41592-023-02146-w)
 
 ## Container Information
-This pipeline uses a **Singularity container** available on Docker Hub:
+This pipeline uses a **Singularity container** available on SyLab Hub:
 
-- **DockerHub Repository**: [kalasnty/omniclip_container](https://hub.docker.com/r/kalasnty/omniclip_container/tags/)
+- **SyLab Repository**: [kalasnty/omniclip/singularitycontainer](https://cloud.sylabs.io/library/kalasnty/omniclip/singularitycontainer)
 
 ### **Limitations**
 - Multi-core support is currently **disabled** (`params.nb_cores = 1`).
