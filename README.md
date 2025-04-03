@@ -26,7 +26,7 @@ This pipeline uses a **Singularity container** available on SyLab Hub:
 ## Quick Start
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/kalasNTY/nf-omniCLIP_singularity.git]
+   git clone https://github.com/kalasNTY/nf-omniCLIP_singularity.git
    cd nf-omniCLIP_singularity
    ```
 
