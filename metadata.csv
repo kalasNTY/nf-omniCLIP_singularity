@@ -1,0 +1,6 @@
+File,Sample,Factor
+/data/Input/Input_R1.tiny.bam,Input_R1,bg
+/data/Input/Input_R2.tiny.bam,Input_R2,bg
+/data/Input/Input_R3.tiny.bam,Input_R3,bg
+/data/Input/PTBP1_R1_tiny.bam,PTBP1_R1,clip
+/data/Input/PTBP1_R2_tiny.bam,PTBP1_R2,clip
