@@ -41,7 +41,8 @@ This pipeline uses a **Singularity container** available on SyLab Hub:
 
 ## Output
 - The default output directory is `Results/`.
-- The contents of `Results/` will be **overwritten** in subsequent runs unless manually saved.
+- The contents of `Results/` need to be moved and saved to a different location prior to the next execution
+- Please manually delete all unneccessary temp files (e.g. _dat and .db) unless you want them to be re-used.
 
 ## Contribution & Development
 This pipeline was developed, debugged, and optimized by **Julian A. Zagalak**.
