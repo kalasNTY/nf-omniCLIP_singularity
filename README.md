@@ -1,7 +1,7 @@
 # omniCLIP Nextflow Pipeline (Singularity Version)
 
 ## Overview
-This repository contains a Nextflow pipeline for running **omniCLIP**, a computational framework for analyzing **CLIP and ARTR-seq** NGS data interogating transcriptome-wide RNA-protein interaction. The pipeline is built to work with a **Singularity container** and is optimized for running a **test dataset on chromosome 3** by default.
+This repository contains a Nextflow pipeline for running **omniCLIP**, a computational framework for analyzing **CLIP and ARTR-seq** NGS data interogating transcriptome-wide RNA-protein interaction. The pipeline is built to work with a **Singularity container** and is running a **test dataset on chromosome 3** by default unless user provides data and parameters.
 
 > **Note:** This pipeline does **not** support multi-core processing yet (`params.nb_cores = 1`).
 
